@@ -1,5 +1,8 @@
 # Bradley's Whiteboard
-Notes, gists, fiddling.
+Notes, gists, fiddling.  
+
+http://www.apps4av.org/regions/  
+https://avare.bubble.org/2413/  
 
 ## AvareX Obstacles
 Corrected longitude distance by latitude: https://dartpad.dev/?id=f064399bd9fe84367189636b94f4d957  
