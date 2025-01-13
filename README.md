@@ -1,6 +1,11 @@
 # Bradley's Whiteboard
 Notes, gists, fiddling.  
 
+## To-Do
+* Flutter/Android_Studio tooling, oh my
+    * Compile/run from source
+* Collect PR offers from ZK emails
+
 http://www.apps4av.org/regions/  
 https://avare.bubble.org/2413/  
 
