@@ -11,7 +11,8 @@ Notes, gists, fiddling.
    * Nexrad opacity, configurable
       * ZK: "Only overlays support transparency, tiles don't. Mesonet is tiles while GDL90 nexrad is an overlay. If you can find a solution let me know. It's clearly stated in flutter map documentation"
    * [POC complete] NOTAMs (long-press): reduce clutter: put long-press location at top, or reduce list to just long-press
-      * [POC complete] reduce radius from 20nm to 2: effectively confine list of airport of long-press
+      * [POC complete] reduce radius from 20 nm to 2: effectively confine list of airport of long-press
+         * confirmed: using geo radius search via HTTP post on https://www.notams.faa.gov/dinsQueryWeb/
       * make configurable via optional user.db setting (so no config UI needed from devs)
       * ZK: "There are technical issues. How FAA provides data. I have not heard anyone else complain about it so not working on it soon"
    * Obstacles
