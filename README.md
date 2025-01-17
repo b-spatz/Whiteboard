@@ -8,17 +8,19 @@ Notes, gists, fiddling.
 
 ## Requests
 * 2024-12-09
-   * Nexrad opacity, configurable
+   * [POC complete] Nexrad opacity, configurable
       * ZK: "Only overlays support transparency, tiles don't. Mesonet is tiles while GDL90 nexrad is an overlay. If you can find a solution let me know. It's clearly stated in flutter map documentation"
+      * 1-line change using Flutter Opacity() widget
    * [POC complete] NOTAMs (long-press): reduce clutter: put long-press location at top, or reduce list to just long-press
+      * ZK: "There are technical issues. How FAA provides data. I have not heard anyone else complain about it so not working on it soon"
       * [POC complete] reduce radius from 20 nm to 2: effectively confine list of airport of long-press
          * confirmed: using geo radius search via HTTP post on https://www.notams.faa.gov/dinsQueryWeb/
-      * make configurable via optional user.db setting (so no config UI needed from devs)
-      * ZK: "There are technical issues. How FAA provides data. I have not heard anyone else complain about it so not working on it soon"
-   * Obstacles
-      * [partial] document criteria: 15 sec updates, withon 200 feet altitude, 0.1 degrees lat/log (6nm at equator) [now 0.4?]
-      * [POC complete; dart Gists] correct search area longitude for increasing latitude
+      * [POC complete] make configurable via optional user.db setting (so no config UI needed from devs)
+   * [POC Complete] Obstacles
       * ZK: "Send a PR. I will consider change"
+      * [partial] document criteria: 15 sec updates, withon 200 feet altitude, 0.1 degrees lat/log (6nm at equator) [now 0.4?]
+      * [POC complete; dart Gist] correct search area longitude for increasing latitude
+      * [POC complete; dart Gist] use time to obstacle (speed-based) to set distance, correct search area longitude for increasing latitude
    * GeoJSON (user-provided): support _color property of feature to set color. exclude _* vars from labels
       * ZK: "if you create an issue on GitHub I will get to it"
 
