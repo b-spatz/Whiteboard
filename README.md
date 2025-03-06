@@ -1,6 +1,11 @@
 # Bradley's Whiteboard
 Notes, gists, fiddling.  
 
+## AvareX Milestones
+* 2025-01-12: Create Github, Gist accounts
+* 2025-01-13: Install Flutter/Android_Studio tooling for Windows platform, target=Android/Windows
+* 2025-01-14: First compile/run of AvareX
+  
 ## To-Do
 * [done] Flutter/Android_Studio tooling, oh my
     * [done] Compile/run from source
