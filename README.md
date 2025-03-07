@@ -2,7 +2,7 @@
 Notes, gists, fiddling.  
 
 ## AvareX Milestones
-* 0225-01-07: Find CSUP extra/old pages bug (X235): report Aeronav, fixed AvareX 1/14
+* 2025-01-07: Find CSUP extra/old pages bug (X235): report Aeronav, fixed AvareX 1/14
 * 2025-01-12: Create Github, Gist accounts
 * 2025-01-13: Install Flutter/Android_Studio tooling for Windows platform, target=Android/Windows
 * 2025-01-13: First compile/run of AvareX
@@ -11,7 +11,6 @@ Notes, gists, fiddling.
 * 2025-01-16: Develop/submit NEXRAD opacity fix (0.5); PR accepted next day; ZK changes to 0.8 later that day
 * 2025-01-18: Report db locked bug, Zk regression from main.db bug on 13th; ZK fixes
 * 2025-01-31: Report distance ring labels positioned "behind you" if track-up southbound-ish; no response
-* 
 
 ```
 obstacle calcs:lat and lat+speed/time/dist, POC
