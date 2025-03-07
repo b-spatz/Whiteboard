@@ -10,6 +10,7 @@ Notes, gists, fiddling.
 * 2025-01-16: Develop/submit NOTAM mod to limit to just airport long-ressed... (radius=2nm instead of 20)
 * 2025-01-16: Develop/submit NEXRAD opacity fix (0.5); PR accepted next day; ZK changes to 0.8 later that day
 * 2025-01-18: Report db locked bug, Zk regression from main.db bug on 13th; ZK fixes
+* 2025-01-31: Report distance ring labels positioned "behind you" if track-up southbound-ish; no response
 * 
 
 ```
