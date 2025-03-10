@@ -20,6 +20,17 @@ stratux detect, auto roll-reverse, PR
 TFR (Internet) fix, PR accepted
 GDL90 uplink message bug fix; accepted
 chart regions PNG; accepted
+
+Date       Type Prod Description
+2025-01-07 Bug  Y    Find CSUP extra/old pages bug (X235): report Aeronav, fixed AvareX 1/14
+2025-01-12           Create Github, Gist accounts
+2025-01-13           Install Flutter/Android_Studio tooling for Windows platform, target=Android/Windows
+2025-01-13           First compile/run of AvareX
+2025-01-13 Bug  Y    First code bug: dev/bootstrap main.db crash; ZK fix next day
+2025-01-16 POC  N    Develop/submit NOTAM mod to limit to just airport long-ressed... (radius=2nm instead of 20)
+2025-01-16 PR   Y    Develop/submit NEXRAD opacity fix (0.5); PR accepted next day; ZK changes to 0.8 later that day
+2025-01-18 Bug  Y    Report db locked bug, Zk regression from main.db bug on 13th; ZK fixes
+2025-01-31           Report distance ring labels positioned "behind you" if track-up southbound-ish; no response
 ```
   
 ## To-Do
