@@ -2,35 +2,27 @@
 Notes, gists, fiddling.  
 
 ## AvareX Milestones
-* 2025-01-07: Find CSUP extra/old pages bug (X235): report Aeronav, fixed AvareX 1/14
-* 2025-01-12: Create Github, Gist accounts
-* 2025-01-13: Install Flutter/Android_Studio tooling for Windows platform, target=Android/Windows
-* 2025-01-13: First compile/run of AvareX
-* 2025-01-13: Find first bug: dev/bootstrap main.db crash; ZK fix next day
-* 2025-01-16: Develop/submit NOTAM mod to limit to just airport long-ressed... (radius=2nm instead of 20)
-* 2025-01-16: Develop/submit NEXRAD opacity fix (0.5); PR accepted next day; ZK changes to 0.8 later that day
-* 2025-01-18: Report db locked bug, Zk regression from main.db bug on 13th; ZK fixes
-* 2025-01-31: Report distance ring labels positioned "behind you" if track-up southbound-ish; no response
-
 ```
-obstacle calcs:lat and lat+speed/time/dist, POC
 nexrad opacity, configurable, slider: PR accepted
-NOTAM: configurable nm radius; identifier-based; POC
-stratux detect, auto roll-reverse, PR
-TFR (Internet) fix, PR accepted
 GDL90 uplink message bug fix; accepted
 chart regions PNG; accepted
 
 Date       Type Prod Description
 2025-01-07 Bug  Y    Find CSUP extra/old pages bug (X235): report Aeronav, fixed AvareX 1/14
+2025-01-11 POC       Obstacles "radius": Dart to correct AvareX delta-longitude due to latitude
+2025-01-11 POC       Obstacles "radius": Dart to use time-based "radius" using speed and latitude
 2025-01-12           Create Github, Gist accounts
 2025-01-13           Install Flutter/Android_Studio tooling for Windows platform, target=Android/Windows
 2025-01-13           First compile/run of AvareX
 2025-01-13 Bug  Y    First code bug: dev/bootstrap main.db crash; ZK fix next day
-2025-01-16 POC  N    Develop/submit NOTAM mod to limit to just airport long-ressed... (radius=2nm instead of 20)
+2025-01-16 POC  N    Develop/email NOTAM mod to limit to just airport long-ressed... (radius=2nm instead of 20)
 2025-01-16 PR   Y    Develop/submit NEXRAD opacity fix (0.5); PR accepted next day; ZK changes to 0.8 later that day
 2025-01-18 Bug  Y    Report db locked bug, Zk regression from main.db bug on 13th; ZK fixes
 2025-01-31           Report distance ring labels positioned "behind you" if track-up southbound-ish; no response
+
+2025-02-27 PR        Stratux automagic reverse PFD/AHRS roll orientation
+2025-02-28 PR   Y    TFR (Internet) quick fix due to FAA tfr3 breaking things; transition to XML-based API
+2025-03-13 PR        NOTAMs: put longpress POI at top of listing by using ICAO vs. lat/long radius search from FAA/DINS
 ```
   
 ## To-Do
