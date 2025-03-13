@@ -1,13 +1,11 @@
 # Bradley's Whiteboard
-Notes, gists, fiddling.  
+Notes, gists, fiddling.
 
-## AvareX Milestones
+## AvareX Contributions
 ```
-nexrad opacity, configurable, slider: PR accepted
-GDL90 uplink message bug fix; accepted
-chart regions PNG; accepted
-
 Date       Type Prod Description
+2024-09-12 Map  Y    Map of new chart/data "regions" per ZK bboxes; from Suzanne C forum issue; ZK adds to Download i button
+                     Share leaflet code that produces map PNGs with ZK
 2025-01-07 Bug  Y    Find CSUP extra/old pages bug (X235): report Aeronav, fixed AvareX 1/14
 2025-01-11 POC       Obstacles "radius": Dart to correct AvareX delta-longitude due to latitude
 2025-01-11 POC       Obstacles "radius": Dart to use time-based "radius" using speed and latitude
@@ -19,11 +17,14 @@ Date       Type Prod Description
 2025-01-16 PR   Y    Develop/submit NEXRAD opacity fix (0.5); PR accepted next day; ZK changes to 0.8 later that day
 2025-01-18 Bug  Y    Report db locked bug, Zk regression from main.db bug on 13th; ZK fixes
 2025-01-31           Report distance ring labels positioned "behind you" if track-up southbound-ish; no response
-
+2025-02-22 PR   ?    Nexrad opacity slider; ZK denies PR but integrates idea: opacity sliders for every layer
 2025-02-27 PR        Stratux automagic reverse PFD/AHRS roll orientation
+2025-02-27 Bug  Y    Report missing break in gdl90/message_factory.dart (between uplink/ownship); ZK fixes
 2025-02-28 PR   Y    TFR (Internet) quick fix due to FAA tfr3 breaking things; transition to XML-based API
+2025-03-05 Map       Place chart/data region map code (Leaflet) here on Github
 2025-03-13 PR        NOTAMs: put longpress POI at top of listing by using ICAO vs. lat/long radius search from FAA/DINS
 ```
+Column `Prod` means whether this contribution made it into production (was accepted).
   
 ## To-Do
 * [done] Flutter/Android_Studio tooling, oh my
