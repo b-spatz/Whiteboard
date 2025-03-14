@@ -54,6 +54,8 @@ https://avare.bubble.org/2413/
 
 ## Insights
 * ZK: "I am experimenting if I can make something without configs"
+* ZK: "I have not flown for 3 months" (2025-03-11)
+* ZK: "I do not need help"  "I do what I want to do" (2025-03-13)
 
 ## AvareX Obstacles
 Corrected longitude distance by latitude: https://dartpad.dev/?id=f064399bd9fe84367189636b94f4d957  
