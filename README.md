@@ -22,7 +22,7 @@ Date       Type Prod Description
 2025-02-27 Bug  Y    Report missing break in gdl90/message_factory.dart (between uplink/ownship); ZK fixes
 2025-02-28 PR   Y    TFR (Internet) quick fix due to FAA tfr3 breaking things; transition to XML-based API
 2025-03-05 Map       Place chart/data region map code (Leaflet) here on Github
-2025-03-13 PR        NOTAMs: put longpress POI at top of listing by using ICAO vs. lat/long radius search from FAA/DINS
+2025-03-13 PR   Rej  NOTAMs: put longpress POI at top of listing by using ICAO vs. lat/long radius search from FAA/DINS
 ```
 Column `Prod` means whether this contribution made it into production (was accepted).
   
