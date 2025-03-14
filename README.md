@@ -53,7 +53,7 @@ http://www.apps4av.org/regions/
 https://avare.bubble.org/2413/  
 
 ## Insights
-* ZK: "I am experimenting if I can make something without configs"
+* ZK: "I am experimenting if I can make something without configs" (2025-01-04)
 * ZK: "I have not flown for 3 months" (2025-03-11)
 * ZK: "I do not need help"  "I do what I want to do" (2025-03-13)
 
