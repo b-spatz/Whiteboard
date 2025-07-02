@@ -51,6 +51,7 @@ Column `Prod` means whether this contribution made it into production (was accep
 
 http://www.apps4av.org/regions/  
 https://avare.bubble.org/2413/  
+https://github.com/cyoung/stratux/blob/master/notes/app-vendor-integration.md  
 
 ## Insights
 * ZK: "I am experimenting if I can make something without configs" (2025-01-04)
