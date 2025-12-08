@@ -23,6 +23,12 @@ Date       Type Prod Description
 2025-02-28 PR   Y    TFR (Internet) quick fix due to FAA tfr3 breaking things; transition to XML-based API
 2025-03-05 Map       Place chart/data region map code (Leaflet) here on Github
 2025-03-13 PR   Rej  NOTAMs: put longpress POI at top of listing by using ICAO vs. lat/long radius search from FAA/DINS
+2025-04-13 Bug       Report map delays on 0.54 with Dynon HDX GDL90 provider; like issue #81; reported again 2025-09-25 0.64
+2025-06-11 Bug       Report/confirm 0.53-0.55 no METAR/TAF, TFRs on longpres; asfter re-install troubleshooting and resolution
+2025-09-18 Bug       Confirm mising FAA TAF source data; contact FAA, resolved next day.  See forum posting.
+2025-09-26 Bug       Suggest internet-connectivity state via gpsInternal is weak vs. any GDL90 reception, etc.  See emails
+2025-10-06           Plead not to waste time on AI integration, especially at expense of working NOTAMs, METARs, Internet errs, etc.
+2025-11-29 Bug       Confirm/reproduce chart cycle 2512 gap between Raleigh/Richmond; not sure if fixed in 2513 or just 2513 
 2025-12-04 PR   Rej  Restore NOTAMs after 3+ months inop (spinner asalink); report new API/integration missing NOTAMs
 2025-12-07           Validate 0.68-bspatz with working NOTAMs, Dynon HDX ownship workaround; test Dynon non-GDL90 broadcasts (OK!)
 ```
