@@ -57,8 +57,9 @@ Column `Prod` means whether this contribution made it into production (was accep
    * GeoJSON (user-provided): support _color property of feature to set color. exclude _* vars from labels
       * ZK: "if you create an issue on GitHub I will get to it"
 
-http://www.apps4av.org/regions/  
+<a target="_blank" href="http://www.apps4av.org/regions/">http://www.apps4av.org/regions/</a>  
 https://avare.bubble.org/2413/  
+&nbsp; &nbsp; https://avare.bubble.org/version.php, Avare (legacy): {[TFRs](https://avare.bubble.org/TFRs.zip),[conus](https://avare.bubble.org/conus.zip),[weather](https://avare.bubble.org/weather.zip)}.zip  
 https://github.com/cyoung/stratux/blob/master/notes/app-vendor-integration.md  
 
 ## Insights
