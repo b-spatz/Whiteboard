@@ -33,6 +33,9 @@ Date       Type Prod Description
 2025-11-29 Bug       Confirm/reproduce chart cycle 2512 gap between Raleigh/Richmond; not sure if fixed in 2513 or just 2513 
 2025-12-04 PR   Rej  Restore NOTAMs after 3+ months inop (spinner asalink); report new API/integration missing NOTAMs
 2025-12-07           Validate 0.68-bspatz with working NOTAMs, Dynon HDX ownship workaround; test Dynon non-GDL90 broadcasts (OK!)
+2025-12-11           Personal build for sharing after PRs, feedback, forum requested features ignored/rejected)
+2025-12-17      Y    Traffic filter S/M/L tooltip documenting puck dimensions
+2025-12-22           Android SD card storage for charts/data (for old 16GB device(s))
 ```
 Column `Prod` means whether this contribution made it into production (was accepted).
   
