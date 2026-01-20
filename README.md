@@ -2,6 +2,8 @@
 Notes, gists, fiddling.
 
 ## AvareX Contributions
+**Production**: [Chart regions diagram](https://github.com/b-spatz/avarex-regions), [NEXRAD/layer opacity](https://github.com/apps4av/avarex/pull/53), [TFRs (Internet](https://github.com/apps4av/avarex/pull/61), bug fixes.  
+**Personal**: &nbsp; &nbsp; [Stratux automagic PFD/AHRS roll-reversal](https://github.com/apps4av/avarex/pull/59), [full NOTAMs+LTAs (Internet)](https://github.com/apps4av/avarex/pull/93), [METARs tab non-Kxxx](https://github.com/apps4av/avarex/pull/94), Dynon HDX WiFi/GDL90 support, Android SD card support.  
 ```
 Date       Type Prod Description
 2024-09-12 Map  Y    Map of new chart/data "regions" per ZK bboxes; from Suzanne C forum issue; ZK adds to Download i button
