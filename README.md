@@ -36,6 +36,7 @@ Date       Type Prod Description
 2025-12-11           Personal build for sharing after PRs, feedback, forum requested features ignored/rejected)
 2025-12-17      Y    Traffic filter S/M/L tooltip documenting puck dimensions
 2025-12-22           Android SD card storage for charts/data (for old 16GB device(s))
+2026-01-06           Detect/decode all Dynon proprietary (non-GDL90) port messages; add filtering/capture; 
 ```
 Column `Prod` means whether this contribution made it into production (was accepted).
   
