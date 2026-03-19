@@ -7,12 +7,12 @@ I joined AOPA as a student pilot through their Student Pilot magazine.
 I had been a contributor to the AOPA ASF (Aviation Safety Foundation) and the AOPA PAC (Political Action Committee, before the AOPA Foundation).
 I'm also an EAA Life Member.
 
-Over the years, the AOPA memberships dues increased and the focus of the organization seemed to shift "up-market" -- with more magazine stories
+Over the years, the AOPA membership dues increased and the focus of the organization seemed to shift "up-market" -- with more magazine stories
 on turbines, and jets, and luxury "lifestyle" items, and cozier with anyone selling a product.  For years I had the AOPA credit card but found it
-harder and harder to use my points and justify the card.  AOPA seemed to be changing, getting distant, and looking past the issues that mattered
-to me.
+harder and harder to use my points and justify the card -- even through changes in providers and branding.
+AOPA seemed to be changing, getting distant, and looking past the issues that mattered to me.
 
-
+In late 2021 a new airport restaurant opened
 
 Since 7/31/2023, AOPA sends me email about every day asking me to rejoin.
 
@@ -29,6 +29,8 @@ But know that my aviation advocacy remains strong, and when asked, I explain the
 It's you, AOPA, that has failed general aviation.
 
 ### OCF airport access
+In late 2021 a new airport restaurant opened
+
 ### OSH t-shirt(s)
 ### SnF Pete's Pub and Haines...what an asshole
 
