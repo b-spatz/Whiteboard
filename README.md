@@ -9,3 +9,4 @@ Notes, gists, fiddling.
 
 ## Other Notes
 * [AvareX Work](avarex.md)
+* [Gists](https://gist.github.com/b-spatz)
