@@ -53,8 +53,8 @@ for me.  I even asked to buy the shirt!  But no, they were only for folks renewi
 ### Fed Up
 
 These are just a few examples of AOPA losing their way.  So I removed my auto-renew and let my membership expire 7/31/2023.
-Within a month, AOPA started sending me emails daily aasking me to rejoin.  Every day, for years.  In fact, while writing this AOPA 
-has sent an email "Rejoin AOPA -- Get Expert Support."  Every day they spam me to send them money with all kinds of pitches to re-join,
+Within a month, AOPA started sending me emails daily asking me to rejoin.  Every day, for years.  In fact, while writing this, they
+sent an email "Rejoin AOPA -- Get Expert Support."  Every day they spam me to send them money with all kinds of pitches to re-join,
 including "Your voice matters" and other platitudes.
 
 I left AOPA precisely *because* they ignored my "voice" on several specific issues -- even after engaging in-person at Sun n Fun, OSH, Triple Tree,
