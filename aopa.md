@@ -1,6 +1,6 @@
 ## My AOPA Membership Story
 
-I was an AOPA member for 22+ years until 7/31/2023 when I finally decided to let my membership expire.  Here's my story on how AOPA left me.
+I was an AOPA member for 24 years until 7/31/2023 when I finally decided to let my membership expire.  Here's my story on how AOPA left me.
 
 I'm an active ~2300 hour instrument-rated private pilot (SEL and SES).  I joined AOPA as a student pilot through their Student Pilot magazine.
 I had been a contributor to the AOPA ASF (Aviation Safety Foundation) and the AOPA PAC (Political Action Committee, before the AOPA Foundation).
