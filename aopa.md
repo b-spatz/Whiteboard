@@ -70,4 +70,4 @@ But my aviation advocacy remains strong, and when asked, I explain the above.  T
 
 It's you, AOPA, that has failed general aviation.
 
-<img _src="https://h2osav.buildgreen.org/img/pixel.gif">
+<img src="https://h2osav.buildgreen.org/img/pixel.gif">
