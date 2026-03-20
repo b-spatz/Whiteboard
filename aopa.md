@@ -55,7 +55,8 @@ for me.  I even asked to buy the shirt!  But no, they were only for folks renewi
 
 ### Fed Up
 
-These are just a few examples of AOPA losing their way.  So I removed my auto-renew and let my membership expire 7/31/2023.
+These are just a few examples of AOPA losing their way, from simple tone-deaf mistreatment of members to serious lapses in advocacy.
+So I removed my auto-renew and let my membership expire 7/31/2023.
 Within a month, AOPA started sending me emails daily asking me to rejoin.  Every day, for years.  In fact, while writing this, they
 sent an email "Rejoin AOPA -- Get Expert Support."  Every day they spam me to send them money with all kinds of pitches to re-join,
 including "Your voice matters" and other platitudes.
@@ -71,6 +72,6 @@ I'm very much involved in aviation and related public policy and advocacy.  Just
 
 But my aviation advocacy remains strong, and when asked, I explain the above.  Turns out, folks like me are growing in numbers.
 
-It's you, AOPA, that has failed general aviation.
+It's you, AOPA, that is failing general aviation.
 
 <img src="https://h2osav.buildgreen.org/img/pixel.gif">
