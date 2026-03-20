@@ -50,28 +50,24 @@ and that my membership would automatically renew at the end of the month.  But b
 I was surprised.  I explained my renewal was just a week or so away, and would be the easiest transaction for everyone -- but no, no t-shirt
 for me.  I even asked to buy the shirt!  But no, they were only for folks renewing their membership in that tent.  I couldn't believe it.
 
+### Fed Up
 
+These are just a few examples of AOPA losing their way.  So I removed my auto-renew and let my membership expire 7/31/2023.
+Within a month, AOPA started sending me emails daily aasking me to rejoin.  Every day, for years.  In fact, while writing this AOPA 
+has sent an email "Rejoin AOPA -- Get Expert Support."  Every day they spam me to send them money with all kinds of pitches to re-join,
+including "Your voice matters" and other platitudes.
 
-Since 7/31/2023, AOPA sends me email about every day asking me to rejoin.
+I left AOPA precisely *because* they ignored my "voice" on several specific issues -- even after engaging in-person at Sun n Fun, OSH, Triple Tree,
+or by contacting the designated liaisons.  AOPA does what it wants so my "voice" didn't matter to them.  Their arrogance -- and indifference
+even now -- astounds, and only reinforces my decision to quit AOPA.
 
-I left AOPA precisely *because* you ignored my "voice" on several specific issues -- even after engaging in-person at Sun n Fun, OSH, Triple Tree, or by contacting the designated liaisons.  AOPA does what it wants so my "voice" didn't matter -- to AOPA.  Your arrogance -- and indifference even now -- astounds, and only reinforces my decision to quit AOPA.
+All they really care about is money.  Daily pleading emails to rejoin, but they never reached out to find out why I left after several decades of membership.
 
-All you really care about is money.  Since I quit AOPA several years ago, you send emails like this EVERY DAY pleading with me rejoin (that is, send you money).
+I remain an active pilot.  I am an EAA Life Member.  I attend fly-ins, FAAST seminars, airshows, and aviation events.
+I'm very much involved in aviation and related public policy and advocacy.  Just with organizations that listen to my voice, and frankly, that are effective.
 
-But you never reached out to find out why I left after several decades of membership.
-
-You should know I remain an active pilot.  I am an EAA Life Member.  So I'm very much involved in aviation and related public policy and advocacy.  Just with organizations that listen to my voice, and frankly, that are effective.
-
-But know that my aviation advocacy remains strong, and when asked, I explain the above.  Turns out, folks like me are growing in numbers.
+But my aviation advocacy remains strong, and when asked, I explain the above.  Turns out, folks like me are growing in numbers.
 
 It's you, AOPA, that has failed general aviation.
-
-### OCF airport access
-In late 2021 a new airport restaurant opened
-
-### OSH t-shirt(s)
-### SnF Pete's Pub and Haines...what an asshole
-
-
 
 <img _src="https://h2osav.buildgreen.org/img/pixel.gif">
