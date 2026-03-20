@@ -42,7 +42,14 @@ And he made me feel stupid for even asking him.
 I brought this up again with AOPA and a fly-in (Triple Tree?) but once again was rebuffed.  It was clear AOPA talked a good game,
 but would not get involved to ensure basic ramp access to/from the adjacent town with a public use airport receving FAA funds.
 
-### A T-Shirt
+### T-Shirt
+
+A year or two later at Oshkosh I stopped by the AOPA tent and they had a spiffy t-shirt commemorating the event.  I asked if I could have one
+but they said it was only for members who were renewing their membership.  I explained I was a member, which they confirmed by looking me up,
+and that my membership would automatically renew at the end of the month.  But because I was on auto-renew, I wasn't eligible for the shirt.
+I was surprised.  I explained my renewal was just a week or so away, and would be the easiest transaction for everyone -- but no, no t-shirt
+for me.  I even asked to buy the shirt!  But no, they were only for folks renewing their membership in that tent.  I couldn't believe it.
+
 
 
 Since 7/31/2023, AOPA sends me email about every day asking me to rejoin.
